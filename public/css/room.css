@@ -1,0 +1,13 @@
+.taskListItem {
+  cursor: pointer;
+}
+
+.activeTask {
+  color:blue;
+}
+
+.avatar {
+  margin: 5px;
+  font-size: 25px;
+  font-weight: bold;
+}
